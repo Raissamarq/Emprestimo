@@ -14,7 +14,6 @@ Aplicação CRUD feita em ASP NET MVC e Booststrap.
 
 <h2 id="layout">🎨 Layout</h2>
 <p align="center">
-![image](https://github.com/user-attachments/assets/8288d07b-81fa-403d-82e3-e6ec6619a5cb)
 
 Cadastro
 
