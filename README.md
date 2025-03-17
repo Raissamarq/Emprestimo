@@ -3,10 +3,6 @@ Aplicação CRUD feita em ASP NET MVC e Booststrap.
 <h1 align="center" style="font-weight: bold;">Emprestimo de Livros 💻</h1>
 
 <p align="center">
- <a href="#tech">Technologies</a> • 
-</p>
-
-<p align="center">
     <b>Aplicação CRUD para emprestimo de livros</b>
 </p>
 
