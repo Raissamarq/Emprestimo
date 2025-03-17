@@ -4,7 +4,6 @@ Aplicação CRUD feita em ASP NET MVC e Booststrap.
 
 <p align="center">
  <a href="#tech">Technologies</a> • 
- <a href="#started">Getting Started</a> 
 </p>
 
 <p align="center">
